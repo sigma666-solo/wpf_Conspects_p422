@@ -8,7 +8,7 @@
         
 <StackPanel Margin="120" Spacing="10">
         <TextBox Name="MyInput"
-                Text="Введите текст здесь..."/>
+                Watermark="Введите текст здесь..."/>
       
         <CheckBox Name="AllowEdit"
                 Content="Разрешить редактирование"
