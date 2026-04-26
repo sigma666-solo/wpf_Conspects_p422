@@ -1,0 +1,90 @@
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Quadratic equation original
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Quadratic equation original.deps.json
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Quadratic equation original.runtimeconfig.json
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Quadratic equation original.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Quadratic equation original.pdb
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Base.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Controls.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Markup.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Metal.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Desktop.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Native.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Skia.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.Win32.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Avalonia.X11.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/HarfBuzzSharp.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/MicroCom.Runtime.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/SkiaSharp.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Quadratic equation original.csproj.AssemblyReference.cache
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Avalonia/resources
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Quadratic equation original.GeneratedMSBuildEditorConfig.editorconfig
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Quadratic equation original.AssemblyInfoInputs.cache
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Quadratic equation original.AssemblyInfo.cs
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Quadratic equation original.csproj.CoreCompileInputs.cache
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Quadratic equation original.sourcelink.json
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Quadrati.3DC8AB48.Up2Date
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Quadratic equation original.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/refint/Quadratic equation original.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Quadratic equation original.pdb
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Quadratic equation original.genruntimeconfig.cache
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/ref/Quadratic equation original.dll
