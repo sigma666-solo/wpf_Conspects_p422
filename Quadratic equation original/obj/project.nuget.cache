@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "x4x3NmD/LZE=",
+  "dgSpecHash": "de4MhP8IhdI=",
   "success": true,
   "projectFilePath": "/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/Quadratic equation original.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "/home/dayn/.nuget/packages/avalonia.win32/12.0.0/avalonia.win32.12.0.0.nupkg.sha512",
     "/home/dayn/.nuget/packages/avalonia.x11/12.0.0/avalonia.x11.12.0.0.nupkg.sha512",
     "/home/dayn/.nuget/packages/avaloniaui.diagnosticssupport/2.2.0/avaloniaui.diagnosticssupport.2.2.0.nupkg.sha512",
+    "/home/dayn/.nuget/packages/communitytoolkit.mvvm/8.4.2/communitytoolkit.mvvm.8.4.2.nupkg.sha512",
     "/home/dayn/.nuget/packages/harfbuzzsharp/8.3.1.3/harfbuzzsharp.8.3.1.3.nupkg.sha512",
     "/home/dayn/.nuget/packages/harfbuzzsharp.nativeassets.linux/8.3.1.3/harfbuzzsharp.nativeassets.linux.8.3.1.3.nupkg.sha512",
     "/home/dayn/.nuget/packages/harfbuzzsharp.nativeassets.macos/8.3.1.3/harfbuzzsharp.nativeassets.macos.8.3.1.3.nupkg.sha512",

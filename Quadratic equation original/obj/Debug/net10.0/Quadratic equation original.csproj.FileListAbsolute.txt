@@ -88,3 +88,4 @@
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Quadratic equation original.pdb
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/Quadratic equation original.genruntimeconfig.cache
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/Debug/net10.0/ref/Quadratic equation original.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/bin/Debug/net10.0/CommunityToolkit.Mvvm.dll

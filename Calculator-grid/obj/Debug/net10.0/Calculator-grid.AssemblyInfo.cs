@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculator-grid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7bb866de5ca8e1e0a3a602fe62ed30b21d21e21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68130e45b2d8ecf22eb939088296da3ec4d1704b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculator-grid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculator-grid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
