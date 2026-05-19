@@ -1,0 +1,89 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="using:Lesson7.ViewModels"
+        x:DataType="vm:MainWindowViewModel"
+        x:Class="Lesson7.MainWindow"
+        Title="Управление сотрудниками — CompanyDB"
+        Width="800" Height="500"
+        WindowStartupLocation="CenterScreen"
+        >
+
+ <Window.DataContext>
+        <vm:MainWindowViewModel/>
+    </Window.DataContext>
+
+    <Grid ColumnDefinitions="*, 320" Margin="20" ColumnSpacing="20">
+        
+        <!-- ЛЕВАЯ СТОРОНА: Таблица данных -->
+        <Grid RowDefinitions="Auto, *">
+            <TextBlock Grid.Row="0" Text="Список сотрудников" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+            
+            <DataGrid Grid.Row="1" 
+                      ItemsSource="{Binding Employees}" 
+                      SelectedItem="{Binding SelectedEmployee}"
+                      AutoGenerateColumns="False" 
+                      IsReadOnly="True"
+                      GridLinesVisibility="All"
+                      BorderThickness="1"
+                      BorderBrush="LightGray">
+                
+                <!-- Настройка колонок на русском языке -->
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Код" Binding="{Binding Id}" Width="60"/>
+                    <DataGridTextColumn Header="ФИО Сотрудника" Binding="{Binding FullName}" Width="2*"/>
+                    <DataGridTextColumn Header="Должность" Binding="{Binding Position}" Width="1.5*"/>
+                    <DataGridTextColumn Header="Отдел" Binding="{Binding Department}" Width="1*"/>
+                    <DataGridTextColumn Header="Зарплата" Binding="{Binding Salary, StringFormat='{}{0:N2} руб.'}" Width="1.2*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+
+        <!-- ПРАВАЯ СТОРОНА: Форма редактирования -->
+        <Border Grid.Column="1" Background="#F5F5F5" CornerRadius="8" Padding="15">
+            <ScrollViewer>
+                <StackPanel Spacing="10">
+                    <TextBlock Text="Редактирование / Добавление" FontSize="16" FontWeight="Bold" Margin="0,0,0,5"/>
+
+                    <TextBlock Text="ФИО сотрудника:"/>
+                    <TextBox Text="{Binding FullNameInput}"/>
+
+                    <TextBlock Text="Должность:"/>
+                    <TextBox Text="{Binding PositionInput}"/>
+
+                    <TextBlock Text="Отдел:"/>
+                    <TextBox Text="{Binding DepartmentInput}"/>
+
+                    <TextBlock Text="Зарплата:"/>
+                    <TextBox Text="{Binding SalaryInput}"/>
+
+                    <!-- Блок для отображения ошибок валидации красным цветом -->
+                    <TextBlock Text="{Binding ErrorMessage}" 
+                               Foreground="Red" 
+                               FontSize="12" 
+                               TextWrapping="Wrap" 
+                               Margin="0,5,0,5"
+                               MinHeight="30"/>
+
+                    <!-- Кнопки действий -->
+                    <Button Content="Сохранить" 
+                            Command="{Binding SaveEmployee}" 
+                            Background="#4CAF50" Foreground="White" 
+                            HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Height="35"/>
+                    
+                    <Button Content="Удалить сотрудника" 
+                            Command="{Binding DeleteEmployee}" 
+                            Background="#F44336" Foreground="White" 
+                            HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Height="35"/>
+                    
+                    <Button Content="Очистить форму" 
+                            Command="{Binding ClearInputs}" 
+                            Background="#9E9E9E" Foreground="White" 
+                            HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Height="35"/>
+                </StackPanel>
+            </ScrollViewer>
+        </Border>
+    </Grid>
+
+</Window>
