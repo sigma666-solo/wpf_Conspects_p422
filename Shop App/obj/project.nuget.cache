@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9lc4PHIXRMg=",
+  "dgSpecHash": "08Ww5ETxsgc=",
   "success": true,
   "projectFilePath": "/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Shop App/Shop App.csproj",
   "expectedPackageFiles": [
@@ -56,7 +56,7 @@
     "/home/dayn/.nuget/packages/system.security.cryptography.pkcs/9.0.13/system.security.cryptography.pkcs.9.0.13.nupkg.sha512",
     "/home/dayn/.nuget/packages/system.security.cryptography.protecteddata/9.0.13/system.security.cryptography.protecteddata.9.0.13.nupkg.sha512",
     "/home/dayn/.nuget/packages/tmds.dbus.protocol/0.90.3/tmds.dbus.protocol.0.90.3.nupkg.sha512",
-    "/home/dayn/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+    "/home/dayn/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
   ],
   "logs": [
     {

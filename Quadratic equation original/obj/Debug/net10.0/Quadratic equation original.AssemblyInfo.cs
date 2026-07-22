@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quadratic equation original")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da719adc5a8ecb96e545e649f569695722d24603")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfa7572b0af6a77a144e00955722b8207c58e02e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quadratic equation original")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quadratic equation original")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

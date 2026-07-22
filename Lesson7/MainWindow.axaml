@@ -14,30 +14,73 @@
         <vm:MainWindowViewModel/>
     </Window.DataContext>
 
+    
+    <!-- Главная сетка: строго делит окно на левую (*) и правую (320) части -->
     <Grid ColumnDefinitions="*, 320" Margin="20" ColumnSpacing="20">
         
-        <!-- ЛЕВАЯ СТОРОНА: Таблица данных -->
-        <Grid RowDefinitions="Auto, *">
+        <!-- ЛЕВАЯ СТОРОНА: Заголовок, Поиск и Списки по вкладкам -->
+        <Grid RowDefinitions="Auto, Auto, *" Grid.Column="0">
+            
             <TextBlock Grid.Row="0" Text="Список сотрудников" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
             
-            <DataGrid Grid.Row="1" 
-                      ItemsSource="{Binding Employees}" 
-                      SelectedItem="{Binding SelectedEmployee}"
-                      AutoGenerateColumns="False" 
-                      IsReadOnly="True"
-                      GridLinesVisibility="All"
-                      BorderThickness="1"
-                      BorderBrush="LightGray">
+            <TextBox Grid.Row="1" 
+                     Text="{Binding SearchQuery}" 
+                     PlaceholderText="Поиск по ФИО, должности или отделу..." 
+                     Margin="0,0,0,15"
+                     VerticalContentAlignment="Center"/>
+            
+            <!-- Контейнер вкладок -->
+            <TabControl Grid.Row="2">
                 
-                <!-- Настройка колонок на русском языке -->
-                <DataGrid.Columns>
-                    <DataGridTextColumn Header="Код" Binding="{Binding Id}" Width="60"/>
-                    <DataGridTextColumn Header="ФИО Сотрудника" Binding="{Binding FullName}" Width="2*"/>
-                    <DataGridTextColumn Header="Должность" Binding="{Binding Position}" Width="1.5*"/>
-                    <DataGridTextColumn Header="Отдел" Binding="{Binding Department}" Width="1*"/>
-                    <DataGridTextColumn Header="Зарплата" Binding="{Binding Salary, StringFormat='{}{0:N2} руб.'}" Width="1.2*"/>
-                </DataGrid.Columns>
-            </DataGrid>
+                <TabItem Header="Все сотрудники">
+                    <DataGrid ItemsSource="{Binding Employees}" SelectedItem="{Binding SelectedEmployee}" AutoGenerateColumns="False" IsReadOnly="True" GridLinesVisibility="All" BorderThickness="1" BorderBrush="LightGray">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Код" Binding="{Binding Id}" Width="60"/>
+                            <DataGridTextColumn Header="ФИО Сотрудника" Binding="{Binding FullName}" Width="2*"/>
+                            <DataGridTextColumn Header="Должность" Binding="{Binding Position}" Width="1.5*"/>
+                            <DataGridTextColumn Header="Отдел" Binding="{Binding Department}" Width="1*"/>
+                            <DataGridTextColumn Header="Зарплата" Binding="{Binding Salary, StringFormat='{}{0:N2} руб.'}" Width="1.2*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </TabItem>
+
+                <TabItem Header="До 50 000 руб.">
+                    <DataGrid ItemsSource="{Binding EmployeesUnder50}" SelectedItem="{Binding SelectedEmployee}" AutoGenerateColumns="False" IsReadOnly="True" GridLinesVisibility="All" BorderThickness="1" BorderBrush="LightGray">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Код" Binding="{Binding Id}" Width="60"/>
+                            <DataGridTextColumn Header="ФИО Сотрудника" Binding="{Binding FullName}" Width="2*"/>
+                            <DataGridTextColumn Header="Должность" Binding="{Binding Position}" Width="1.5*"/>
+                            <DataGridTextColumn Header="Отдел" Binding="{Binding Department}" Width="1*"/>
+                            <DataGridTextColumn Header="Зарплата" Binding="{Binding Salary, StringFormat='{}{0:N2} руб.'}" Width="1.2*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </TabItem>
+
+                <TabItem Header="50 000 - 80 000 руб.">
+                    <DataGrid ItemsSource="{Binding EmployeesBetween50And80}" SelectedItem="{Binding SelectedEmployee}" AutoGenerateColumns="False" IsReadOnly="True" GridLinesVisibility="All" BorderThickness="1" BorderBrush="LightGray">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Код" Binding="{Binding Id}" Width="60"/>
+                            <DataGridTextColumn Header="ФИО Сотрудника" Binding="{Binding FullName}" Width="2*"/>
+                            <DataGridTextColumn Header="Должность" Binding="{Binding Position}" Width="1.5*"/>
+                            <DataGridTextColumn Header="Отдел" Binding="{Binding Department}" Width="1*"/>
+                            <DataGridTextColumn Header="Зарплата" Binding="{Binding Salary, StringFormat='{}{0:N2} руб.'}" Width="1.2*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </TabItem>
+
+                <TabItem Header="Более 80 000 руб.">
+                    <DataGrid ItemsSource="{Binding EmployeesOver80}" SelectedItem="{Binding SelectedEmployee}" AutoGenerateColumns="False" IsReadOnly="True" GridLinesVisibility="All" BorderThickness="1" BorderBrush="LightGray">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Код" Binding="{Binding Id}" Width="60"/>
+                            <DataGridTextColumn Header="ФИО Сотрудника" Binding="{Binding FullName}" Width="2*"/>
+                            <DataGridTextColumn Header="Должность" Binding="{Binding Position}" Width="1.5*"/>
+                            <DataGridTextColumn Header="Отдел" Binding="{Binding Department}" Width="1*"/>
+                            <DataGridTextColumn Header="Зарплата" Binding="{Binding Salary, StringFormat='{}{0:N2} руб.'}" Width="1.2*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </TabItem>
+                
+            </TabControl>
         </Grid>
 
         <!-- ПРАВАЯ СТОРОНА: Форма редактирования -->
@@ -58,7 +101,7 @@
                     <TextBlock Text="Зарплата:"/>
                     <TextBox Text="{Binding SalaryInput}"/>
 
-                    <!-- Блок для отображения ошибок валидации красным цветом -->
+                    <!-- Блок вывода ошибок -->
                     <TextBlock Text="{Binding ErrorMessage}" 
                                Foreground="Red" 
                                FontSize="12" 
@@ -84,6 +127,7 @@
                 </StackPanel>
             </ScrollViewer>
         </Border>
+        
     </Grid>
 
 </Window>

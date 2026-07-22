@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "NoctaliaTheme",
+    "workbench.activityBar.autoHide": false,
+    "workbench.activityBar.compact": false,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.editor.decorations.colors": true,
+    "workbench.preferredDarkColorTheme": "Dynamic Base16 DankShell (Dark)",
+    "breadcrumbs.enabled": true,
+    "window.autoDetectColorScheme": true
+}
