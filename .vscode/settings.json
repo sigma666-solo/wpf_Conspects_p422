@@ -1,5 +1,6 @@
 {
     "dotrush.roslyn.projectOrSolutionFiles": [
         "/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/Quadratic equation original.sln"
-    ]
+    ],
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/g++.exe"
 }

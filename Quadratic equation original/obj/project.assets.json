@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "Avalonia/12.0.0": {
@@ -1604,19 +1604,19 @@
     ]
   },
   "packageFolders": {
-    "/home/dayn/.nuget/packages/": {}
+    "C:\\Users\\p3353\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/Quadratic equation original.csproj",
+      "projectUniqueName": "D:\\Git_Wpf_Conspects\\wpf_Conspects_p422\\Quadratic equation original\\Quadratic equation original.csproj",
       "projectName": "Quadratic equation original",
-      "projectPath": "/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/Quadratic equation original.csproj",
-      "packagesPath": "/home/dayn/.nuget/packages/",
-      "outputPath": "/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Quadratic equation original/obj/",
+      "projectPath": "D:\\Git_Wpf_Conspects\\wpf_Conspects_p422\\Quadratic equation original\\Quadratic equation original.csproj",
+      "packagesPath": "C:\\Users\\p3353\\.nuget\\packages\\",
+      "outputPath": "D:\\Git_Wpf_Conspects\\wpf_Conspects_p422\\Quadratic equation original\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/dayn/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\p3353\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -1626,6 +1626,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -1640,10 +1641,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Avalonia": {
@@ -1682,18 +1684,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[10.0.10, 10.0.10]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
