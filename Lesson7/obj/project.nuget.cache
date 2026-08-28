@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zctNHXwl8xU=",
+  "dgSpecHash": "muxgG23rJ9o=",
   "success": true,
   "projectFilePath": "/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/Lesson7.csproj",
   "expectedPackageFiles": [
@@ -85,7 +85,7 @@
     "/home/dayn/.nuget/packages/system.security.cryptography.pkcs/9.0.13/system.security.cryptography.pkcs.9.0.13.nupkg.sha512",
     "/home/dayn/.nuget/packages/system.security.cryptography.protecteddata/9.0.13/system.security.cryptography.protecteddata.9.0.13.nupkg.sha512",
     "/home/dayn/.nuget/packages/tmds.dbus.protocol/0.90.3/tmds.dbus.protocol.0.90.3.nupkg.sha512",
-    "/home/dayn/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
+    "/home/dayn/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
   ],
   "logs": [
     {
