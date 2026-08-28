@@ -14,6 +14,7 @@
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Avalonia.OpenGL.dll
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Avalonia.Vulkan.dll
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Avalonia.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Avalonia.Controls.DataGrid.dll
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Avalonia.Desktop.dll
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
@@ -39,6 +40,8 @@
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Microsoft.Data.SqlClient.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Microsoft.Data.SqlClient.Internal.Logging.dll
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
@@ -218,6 +221,3 @@
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/obj/Debug/net10.0/Lesson7.pdb
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/obj/Debug/net10.0/Lesson7.genruntimeconfig.cache
 /home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/obj/Debug/net10.0/ref/Lesson7.dll
-/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Avalonia.Controls.DataGrid.dll
-/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Microsoft.Data.SqlClient.Extensions.Abstractions.dll
-/home/dayn/Documents/GitAvalonia/wpf_Conspects_p422/Lesson7/bin/Debug/net10.0/Microsoft.Data.SqlClient.Internal.Logging.dll
