@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Lesson2/">
+    <Project Path="Lesson2/ProductClient/ProductClient.csproj" />
+  </Folder>
+  <Project Path="../../Shop App/Shop App.csproj" />
+  <Project Path="Core/Core.csproj" />
+  <Project Path="Lesson2/Lesson2.csproj" />
+</Solution>
